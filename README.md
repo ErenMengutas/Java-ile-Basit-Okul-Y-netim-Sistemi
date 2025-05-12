@@ -5,6 +5,7 @@ Bu proje, Java programlama dili kullanılarak geliştirilmiş basit bir okul yö
 Java
 
 🚀 Özellikler
+
 Öğrenci ve öğretmen ekleme
 
 Öğrenci ve öğretmen silme
